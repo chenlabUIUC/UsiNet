@@ -8,7 +8,7 @@ For more information about the project, algorithms, and related publications ple
 
 # Reference
 
-If you find our statistical approach useful for analyzing your data, please cite:
+If you find our UsiNet is helpful to your publication, please cite:
 
 Lehan Yao, Zhiheng Lyu, Jiahui Li, Qian Chen, "Unsupervised sinogram inpainting for missing wedge artifacts correction in heterogeneous nanoparticle electron tomography" _npj Computation Materials_ 
 # Getting started
