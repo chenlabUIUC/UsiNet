@@ -16,5 +16,13 @@ Lehan Yao, Zhiheng Lyu, Jiahui Li, Qian Chen, "Unsupervised sinogram inpainting 
 1. Example data download  
 
 2. Folder structures  
-
+|— trainingExample.ipynb  
+|— train.npy  
+|— valid.npy  
+|— label.npy  
+|— test.npy  
+|— output
+   |— 1st  
+   |— 2nd  
+   |— test_pred  
 3. Model training  
