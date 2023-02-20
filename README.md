@@ -34,3 +34,4 @@ Please download the Jupyter Notebook codes and training data example and create 
 3. Model training  
 Run trainingExample.ipynb for training  
 A neural network model file and a training loss log file will be generated in the root folder of the script. The image outputs will be generated in the output folder.  
+Little tip: The output sinogram stacks in test_pred can be conveniently switched to tilting series view with the Image/Stack/Reslice function in ImageJ. The output images might look oversaturated. But no worries, it's just a matter of dynamic range and can be fixed by the Image/Adjust/Brightness/Contrast function in ImageJ.
