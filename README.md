@@ -27,3 +27,5 @@ Please download the Jupyter Notebook codes and training data example and create 
 &emsp;&emsp;|— 2nd  
 &emsp;&emsp;|— test_pred  
 3. Model training  
+Run trainingExample.ipynb for training  
+A neural network model file and a training loss log file will be generated in the root folder of the script. The image outputs will be generated in the output folder.  
