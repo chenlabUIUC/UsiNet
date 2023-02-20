@@ -22,7 +22,7 @@ Lehan Yao, Zhiheng Lyu, Jiahui Li, Qian Chen, "Unsupervised sinogram inpainting 
 |— label.npy  
 |— test.npy  
 |— output  
-&emsp;|— 1st  
-&emsp;|— 2nd  
-&emsp;|— test_pred  
+&emsp;&emsp;|— 1st  
+&emsp;&emsp;|— 2nd  
+&emsp;&emsp;|— test_pred  
 3. Model training  
