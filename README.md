@@ -21,7 +21,7 @@ Lehan Yao, Zhiheng Lyu, Jiahui Li, Qian Chen, "Unsupervised sinogram inpainting 
 |— valid.npy  
 |— label.npy  
 |— test.npy  
-|— output
+|— output  
    |— 1st  
    |— 2nd  
    |— test_pred  
