@@ -14,8 +14,9 @@ Lehan Yao, Zhiheng Lyu, Jiahui Li, Qian Chen, "Unsupervised sinogram inpainting 
 # Getting started
 
 1. Example data download  
-
+Considering the limited space on GitHub, we provided the training datasets via Illinois Data Bank.  
 2. Folder structures  
+Please download the Jupyter Notebook codes and training data example and create output folders as following:  
 |— trainingExample.ipynb  
 |— train.npy  
 |— valid.npy  
