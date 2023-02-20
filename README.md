@@ -14,14 +14,18 @@ Lehan Yao, Zhiheng Lyu, Jiahui Li, Qian Chen, "Unsupervised sinogram inpainting 
 # Getting started
 
 1. Example data download  
-Considering the limited space on GitHub, we provided the training datasets via Illinois Data Bank.  
-Both simulated dataset and experimental dataset contain train.npy (the training data) and test.npy (data to be predicted). Simulated dataset also contains valid.npy (validation data) and label.npy (validation ground truth).
+Considering the limited space on GitHub, we provided the training datasets via Illinois Data Bank at:  
+https://databank.illinois.edu/datasets/IDB-7963044?code=qcGj7ceW6dT1CGB6Okt9UW91Wp0hFvVaaxmBiTr3QUM  
+Two zip folders "simulated_data.zip" (simulated dataset) and "experimental_data.zip" (experimental dataset) could be downloaded.
+In each folder we provide an "image_data.zip" and a "training_data.zip". The former one are raw image data convenient for your visualization. The latter one contains the .npy files which will be used by the training codes.  
+Both simulated dataset and experimental dataset contain train.npy (the training data) and test.npy (data to be predicted). Simulated dataset also contains valid.npy (validation data) and label.npy (validation ground truth).  
+For your information: For the image_data.zip in simulated_data.zip, it contains 360 raw tilting series, where 1-300 are used as training data; 301-350 are validation data; and 351-360 are test data. For the image_data.zip in experimental dataset.zip, it contains 126 raw tilting series, where all of them are used as both training data and test data.  
 2. Folder structures  
 Please download the Jupyter Notebook codes and training data example and create output folders as following:  
 |— trainingExample.ipynb  
 |— train.npy  
-|— valid.npy  
-|— label.npy  
+|— valid.npy (for simulated dataset only)  
+|— label.npy (for simulated dataset only)  
 |— test.npy  
 |— output  
 &emsp;&emsp;|— 1st  
