@@ -10,7 +10,7 @@ For more information about the project, algorithms, and related publications ple
 
 If you find our UsiNet is helpful to your publication, please cite:
 
-Lehan Yao, Zhiheng Lyu, Jiahui Li, Qian Chen, "Unsupervised Sinogram Inpainting for Nanoparticle Electron Tomography (UsiNet) for missing wedge correction" _npj Computation Materials_ 
+Lehan Yao, Zhiheng Lyu, Jiahui Li, Qian Chen, "No Ground Truth Needed: Unsupervised Sinogram Inpainting for Nanoparticle Electron Tomography (UsiNet) to Correct Missing Wedges" _npj Computation Materials_ 
 # Getting started
 
 1. Example data download  
